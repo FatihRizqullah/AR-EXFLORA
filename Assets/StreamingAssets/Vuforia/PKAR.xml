@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Pinus3" size="100.000000 156.461533" />
+    <ImageTarget name="Lumut3" size="100.000000 156.461533" />
+    <ImageTarget name="Jagung3-19" size="100.000000 156.307693" />
+    <ImageTarget name="Terung2" size="100.000000 156.461533" />
+    <ImageTarget name="Pakis2" size="100.000000 156.307693" />
+    <ImageTarget name="Jagung2" size="100.000000 156.307693" />
+    <ImageTarget name="Apel2" size="100.000000 156.461533" />
+    <ImageTarget name="Terung1" size="100.000000 156.461533" />
+    <ImageTarget name="Pinus1" size="100.000000 156.461533" />
+    <ImageTarget name="Pakis1" size="100.000000 155.267181" />
+    <ImageTarget name="Lumut1" size="100.000000 156.461533" />
+    <ImageTarget name="Jagung1" size="100.000000 156.307693" />
+    <ImageTarget name="Apel1" size="100.000000 156.461533" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,86 @@
+newmtl Tree1:Leaves_002
+illum 4
+Kd 0.08 0.33 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Tree1:Material_001
+illum 4
+Kd 0.09 0.05 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl blinn1SG
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__blinn1SG3
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__blinn1SG6
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__blinn1SG8
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__blinn1SG13
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__blinn1SG14
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__blinn1SG14
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__blinn1SG15
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__blinn1SG16
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__blinn1SG17
+illum 4
+Kd 0.04 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
